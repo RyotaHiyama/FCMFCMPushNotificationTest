@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMPushNotificationTest</string>
+    <string name="default_notification_title">通知</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">デフォルトの通知</string>
+    <string name="test_notification_channel_id">test_channel</string>
+    <string name="test_notification_channel_name">テストの通知</string>
+    <string name="test_notification_channel_description">テストの通知やで</string>
+</resources>
